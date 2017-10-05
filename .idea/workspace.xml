@@ -1,13 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f26b9f78-b36c-45fb-86f8-01c75dd9e8b1" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/be80.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nbproject/private/private.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nbproject/private/private.xml" />
-    </list>
+    <list default="true" id="f26b9f78-b36c-45fb-86f8-01c75dd9e8b1" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -104,12 +98,12 @@
       <option name="presentableId" value="Default" />
       <updated>1507196250664</updated>
       <workItem from="1507196251787" duration="93000" />
-      <workItem from="1507196364592" duration="17000" />
+      <workItem from="1507196364592" duration="612000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="110000" />
+    <option name="totallyTimeSpent" value="705000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-2" y="-3" width="1346" height="1057" extended-state="0" />
